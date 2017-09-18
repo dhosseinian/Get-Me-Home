@@ -22,4 +22,5 @@ As the product is dependent on SMS communication, which may be unreliable, the u
 Furthermore, the server is equipped with the ability to diagnose its own network connectivity, and if it deems itself unable of processing a request by a user, a *NO SIGNAL* response will be returned to the user. Likewise, if the user makes an invalid request for directions, such as providing a non-existent destination, the server will respond with an *INVALID* response to the user application, so that the user may be notified of the bad request.
 
 ![alt text][screenshot]
+
 [screenshot]: https://github.com/dhosseinian/Get-Me-Home/screenshot.jpg
