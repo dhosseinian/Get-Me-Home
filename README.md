@@ -23,4 +23,4 @@ Furthermore, the server is equipped with the ability to diagnose its own network
 
 ![alt text][screenshot]
 
-[screenshot]: https://github.com/dhosseinian/Get-Me-Home/screenshot.jpg
+[screenshot]: https://github.com/dhosseinian/Get-Me-Home/blob/master/screenshot.jpg
